@@ -1,0 +1,1 @@
+A Crash Course in JavaScript covering basic, numbers, strings, conditional logic, arrays, loops, functions, objects etc.
